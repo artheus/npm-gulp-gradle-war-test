@@ -1,0 +1,9 @@
+.DS_Store
+
+.gradle
+gradle
+gradlew*
+.idea
+node_modules
+build
+
